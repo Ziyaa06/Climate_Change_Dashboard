@@ -1,4 +1,19 @@
-# Climate Change Dashboard
+# AI INFINITY SQUAD - Climate Change Dashboard
+
+## TEAM NAME -
+**AI INFINITY SQUAD**
+
+## Prject title:
+**Climate Change Dashboard**
+
+## Description:
+Analyze global temperature anomalies and visualize their impact on regions
+
+## Group Members:
+~DUDANI JIYA [KU2407U400]
+~MAHI SHAH [KU2407U422]
+~KRISHNA LATHIYA [KU2407U421]
+~SATVIK JOSHI [KU2407U439]
 
 ## Project Overview
 The **Climate Change Dashboard** is a Python-based project that analyzes global temperature anomalies and visualizes their trends and regional impacts. It highlights the effect of climate change through statistical analysis and interactive visualizations, enabling better understanding and awareness of global warming.
