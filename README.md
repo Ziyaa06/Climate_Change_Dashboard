@@ -48,7 +48,7 @@ Preprocess Data:
 
 The preprocess_data() function cleans the data by dropping missing values and ensuring correct data types for the Year and Temperature_Anomaly columns.
 It prints "Data preprocessing complete.".
-Analyze Data:
+Analyze Data:-
 
 The analyze_data() function calculates basic statistics:
 Average temperature anomaly.
