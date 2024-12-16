@@ -40,7 +40,7 @@ The dataset is a sample representing global temperature anomalies, inspired by p
 -Start the Program:
 
 The main() function is called when the script is executed directly.
-Load Data:
+-Load Data:
 
 The load_data() function attempts to load the global temperature anomaly data from global_temp_anomalies.csv.
 If successful, it prints "Data loaded successfully.", otherwise, it prints an error and stops execution.
