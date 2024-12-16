@@ -37,7 +37,7 @@ The dataset is a sample representing global temperature anomalies, inspired by p
 - [NOAA Global Temperature Data](https://www.ncei.noaa.gov/access/monitoring/global-temperature-anomalies)
 
 ## steps of execution:
-Start the Program:
+-Start the Program:
 
 The main() function is called when the script is executed directly.
 Load Data:
